@@ -11,6 +11,10 @@
 
  ---
 
+[Read the Paper](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_ML_Paper.pdf)
+
+ ---
+
  ## 📄 Paper Overview
  - Clear definitions of ML terms (e.g., weights, gradients, optimizers)
  - Visual diagrams and graphs to explain complex topics
