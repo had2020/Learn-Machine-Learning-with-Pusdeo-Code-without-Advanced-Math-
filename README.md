@@ -28,6 +28,8 @@
  This work is distributed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
  You may reuse this material with attribution.
 
+ [LICENSE](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/LICENSE.md)
+ 
  ---
 
  ## 🔗 Citation
