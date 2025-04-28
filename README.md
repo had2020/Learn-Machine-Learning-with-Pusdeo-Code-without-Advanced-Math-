@@ -38,5 +38,6 @@
  Intuitive and Accessible for Developers and Students." 2025.**
 
  ---
+ Published on
 
- *(arXiv link coming soon!)*
+[Published on Zenodo](https://zenodo.org/records/15293689)
