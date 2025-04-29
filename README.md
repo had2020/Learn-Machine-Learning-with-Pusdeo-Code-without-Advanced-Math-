@@ -11,7 +11,9 @@
 
  ---
 
-[Read the Paper](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_ML_Paper.pdf)
+[Read the Paper V1](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_ML_Paper.pdf)
+
+[Read the Paper V2](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_MLv2.pdf)
 
  ---
 
@@ -29,7 +31,7 @@
  You may reuse this material with attribution.
 
  [LICENSE](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/LICENSE.md)
- 
+
  ---
 
  ## 🔗 Citation
