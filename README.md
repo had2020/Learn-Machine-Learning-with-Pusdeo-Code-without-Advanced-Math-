@@ -11,8 +11,10 @@
 
  ---
 
+This verison makes for a good novice read.
 [Read the Paper V1](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_ML_Paper.pdf)
 
+In the case, you consider yourself expecting a more scholarly tone. Let me not dishearten you! 
 [Read the Paper V2](https://github.com/had2020/Learn-Machine-Learning-with-Pusdeo-Code-without-Advanced-Math-/blob/main/Hadrian_Lazic_Formulaic_MLv2.pdf)
 
  ---
